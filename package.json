@@ -1,0 +1,9 @@
+{
+  "name": "@types/react-google-maps",
+  "version": "1.0.0",
+  "description": "Typescript definition for react-google-maps",
+  "main": "index.d.ts",
+  "repository": "https://github.com/scottoasis/types-react-google-maps",
+  "author": "Scott Wang <me@scottoas.is>",
+  "license": "MIT"
+}
