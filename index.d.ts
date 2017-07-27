@@ -22,4 +22,4 @@ declare interface GoogleMapProps {
   zoom: number;
 }
 
-declare class GoogleMap extends React.Component<GoogleMapProps, void> {}
+export class GoogleMap extends React.Component<GoogleMapProps, void> {}
